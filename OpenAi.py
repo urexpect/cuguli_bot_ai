@@ -3,7 +3,7 @@ import openai
 from dotenv import load_dotenv 
 load_dotenv()
 
-openai.api_key = os.getenv("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")
+openai.api_key = os.getenv("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")
 
 start_sequence = "\nIntelli_AGENT:"
 restart_sequence = "\n\nUser:"
